@@ -97,19 +97,6 @@
 
 ---
 
-### 💼 Experience Snapshot
-
-| Company | Role | Client | Period |
-|---|---|---|---|
-| **Publicis Sapient** | Full Stack Developer | Lloyds Bank | May 2025 – Apr 2026 |
-| **Cigres** | Product Engineer – Full Stack | Allstate Insurance | Apr 2024 – Jan 2025 |
-| **Joules2Watts** | Lead Software Developer – Full Stack | Lowe's | Feb 2023 – Aug 2023 |
-| **Iksula** | Senior Software Developer – Full Stack | — | Aug 2021 – Nov 2022 |
-| **KGiSL** | Senior Software Developer – Full Stack | HDFC Life | Dec 2019 – Jun 2021 |
-| **Enabled InfoSystems** | Senior Software Developer – Full Stack | — | Jan 2016 – Jul 2019 |
-
----
-
 ### 🏆 Key Achievements
 
 - 🤖 Delivered AI-powered features across Insurance & Banking (Claude API, OpenAI API, LangChain/RAG) — cutting agent handling time by **30%**
